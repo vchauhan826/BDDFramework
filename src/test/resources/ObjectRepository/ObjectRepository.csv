@@ -1,0 +1,5 @@
+﻿PAGE,OBJECT_TYPE,ELEMENTNAME,DYNAMIC PROPERTY,XPATH,HTMLID,CSS SELECTOR,NAME,CLASSNAME,LINKTEXT,TAGNAME,PARTIAL LINKTEXT
+Login,input,userName,,//input[@id='email'],,,,,,,
+Login,input,password,,//input[@id='pass'],,,,,,,
+Login,button,logIn,,//input[@id='u_0_a'],,,,,,,
+Home,label,welcomeName,,//label[@id='welcomeTitle'],,,,,,,
